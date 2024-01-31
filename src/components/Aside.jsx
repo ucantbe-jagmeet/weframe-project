@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const Aside = () => {
     return (
-        <main className="h-screen w-[15rem] bg-[#F6F8F9] sm:flex hidden flex-col items-center justify-evenly py-10">
+        <main className="h-screen w-[15rem] bg-[#FFF] sm:flex hidden flex-col items-center justify-evenly py-10">
             <div className="flex flex-col gap-y-10 w-[70%] h-full overflow-y-auto hide-scrollbar py-7">
                 {asideLinks.map((icon) => (
                     <div

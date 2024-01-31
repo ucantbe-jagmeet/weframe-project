@@ -19,7 +19,7 @@ const asideLinks = [
     },
     {
         id: 3,
-        path: "/User",
+        path: "/user",
         name: "User",
         alert: 0,
     },

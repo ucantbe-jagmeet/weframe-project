@@ -1,5 +1,3 @@
-import { FaBars, FaUserCircle } from "react-icons/fa";
-import Logo from "../assets/images/main-logo-dk.png";
 import Navlinks from "./NavLinks";
 import Image from "next/image";
 
